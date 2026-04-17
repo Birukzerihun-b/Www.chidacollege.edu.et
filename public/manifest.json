@@ -1,0 +1,16 @@
+{
+  "short_name": "Chida College",
+  "name": "Chida Construction & Industrial College",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2231/2231641.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4f46e5",
+  "background_color": "#ffffff"
+}
